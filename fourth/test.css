@@ -1,0 +1,375 @@
+.header {
+	display: flex;
+	width: 100%;
+	height: 750px;
+}
+.header_bacground {
+	width: 80%;
+	background-image: url(figma.png);
+}
+.header_photo {
+	position: absolute;
+	width: 507.71px;
+	height: 644.93px;
+	left: 1050.93px;
+	top: -120.66px;
+	background: #EDFDFF;
+	border-radius: 312.159px;
+	transform: matrix(-0.5, 0.87, 0.87, 0.5, 0, 0);
+}
+.header_block {
+	position: absolute;
+	width: 414px;
+	height: 27px;
+	left: 179px;
+	top: 27px;
+	font-family: Larsseit;
+	font-size: 24px;
+	line-height: 27px;
+	color: #62D0DF;
+	letter-spacing: -0.035em;
+}
+.header_text_block {
+	position: absolute;
+	width: 484px;
+	height: 167px;
+	top: 280px;
+	font-family: Larsseit;
+	font-size: 33px;
+	line-height: 53px;
+	letter-spacing: -0.035em;
+	color: #22356F;
+}
+.header_bigtext {
+	position: absolute;
+   	width: 469px;
+	height: 161px;
+	top: 431px;
+	font-family: Larsseit;
+	font-size: 20px;
+	line-height: 42px;
+	color: #22356F;
+}
+.header_second_photo {
+	position: absolute;
+	width: 450.71px;
+	left: 880.93px;
+	top: 70.66px;
+}
+.header_block_ {
+	position: absolute;
+	width: 484px;
+	height: 64px;
+	top: 211px;
+	font-family: Larsseit;
+	font-size: 24px;
+	line-height: 27px;
+	letter-spacing: -0.035em;
+    color: #62D0DF;
+}
+.avatar {
+	border-radius: 45%;
+	-webkit-transform: rotate(50deg);
+    -moz-transform: rotate(50deg);
+    -o-transform: rotate(50deg);
+    -ms-transform: rotate(50deg);
+    transform: rotate(50deg);
+}
+.link {
+	text-decoration: none;
+	margin: 8px;
+	color: #22356F;
+}
+.header_block_first {
+	position: absolute;
+	width: 233px;
+	height: 14px;
+	left: 497px;
+	top: 38px;
+	font-family: Larsseit;
+	font-size: 14px;
+	line-height: 16px;
+	color: #22356F;
+}
+.who_am_i {
+	padding-top: 7px;
+	position: absolute;
+	font-size: 17px;
+	text-align: center;
+	width: 150px;
+	height: 30px;
+	top: 615px;
+	background: #F9B640;
+	color: white;
+}
+.what_do {
+	position: absolute;
+	width: 150px;
+	height: 43px;
+	left: 200px;
+	top: 615px;
+	font-family: Larsseit;
+	font-size: 16px;
+	line-height: 23px;
+	display: flex;
+	align-items: center;
+	letter-spacing: 0.1em;
+	color: #FAB63E;
+}
+.header_block_second {
+	background-image: url(rest.jpg);
+	position: absolute;
+	padding-top: 15px;
+	width: 150px;
+	height: 35px;
+	left: 1000px;
+	top: 27px;
+	color: white;
+	background: #62D0DF;
+	border-radius: 50px;
+	text-align: center;
+}
+.container {
+	width: 100%;
+	height: 391px;
+	background-color: #00BFFF;
+}
+.rest{
+	width: 100px;
+	height: 100px;
+
+}
+.container-text {
+	position: absolute;
+	color: white;
+	font-size: 24px;
+	left: 10%;
+	margin-top: 90px;
+}
+.section-left {
+	padding-top: 200px;
+	width: 500px;
+	height: 250px;
+	color: white;
+	text-align: center;
+}
+.foto {
+	width: 340px;
+	height: 100px;
+	position: absolute;
+	float: left;
+	left: 72.5%;
+	margin-top: -326px;
+}
+.first-container {
+	display: flex;
+	width: 100%;
+	height: 361px;
+}
+.first-container-text {
+	margin-left: 106px;
+	margin-top: 156px;
+}
+.first-container-second-text {
+	margin-left: 20%;
+	margin-top: 156px;
+	color: 	#4682B4;
+	font-size: 19px;
+}
+.container-footer {
+	margin-top: 50px;
+	text-align: center;
+	color: #00BFFF;
+}
+.center-section {
+	display: flex;
+	margin-top: 40px;
+}
+.center-section_block {
+	margin: auto;
+	background-color: #FFE2DE;;
+	width: 260px;
+	height: 210px;
+	padding-left: 25px;
+	padding-top: 25px;
+	color: white;
+	font-size: 23px;
+}
+.center-section_block_first {
+	margin: auto;
+	background-color:  #C4E769;
+	width: 260px;
+	height: 210px;
+	padding-left: 25px;
+	padding-top: 25px;
+	color: white;
+	font-size: 23px;
+}
+.center-section_block_second {
+	margin: auto;
+	background-color: #62D0DF;
+	width: 260px;
+	height: 210px;
+	padding-left: 25px;
+	padding-top: 25px;
+	color: white;
+	font-size: 23px;
+}
+.center-section_block_third {
+	margin: auto;
+	background-color:#0052C1;
+	width: 260px;
+	height: 210px;
+	padding-left: 25px;
+	padding-top: 25px;
+	color: white;
+	font-size: 23px;
+}
+.mental-container {
+	width: 100%;
+	margin-top: 60px;
+	margin-bottom: 50px;
+
+}
+.sidebar_block {
+	display: flex;
+	margin: auto;
+}
+.sidebar{
+	width: 33.3%;
+	background-color: #22356F;
+	height: 400px;
+	padding-left: 40px;
+	color: white;
+	padding-top: 30px;
+	font-size: 23px;
+}
+.wrap {
+	width: 33.3%;
+	background-color: #0052C1;
+	height: 400px;
+	padding-left: 40px;
+	color: white;
+	padding-top: 30px;
+	font-size: 23px;
+}
+.inner {
+	width: 33.3%;
+	background-image: url(joanna.jpg);
+	height: 400px;
+	padding-left: 40px;
+	color: white;
+	padding-top: 30px;
+	font-size: 23px;
+}
+.side{
+	width: 33.3%;
+	background-color: #62D0DF;
+	height: 400px;
+	padding-left: 40px;
+	color: white;
+	padding-top: 30px;
+	font-size: 23px;
+}
+.wrapper {
+	width: 33.3%;
+	background-color: #DEE1FF;
+	height: 400px;
+	padding-left: 40px;
+	color: white;
+	padding-top: 30px;
+	font-size: 23px;
+}
+.innerhtml {
+	width: 33.3%;
+	background-color: #8F00FF;
+	height: 400px;
+	padding-left: 40px;
+	color: white;
+	padding-top: 30px;
+	font-size: 23px;
+}
+.logout{
+	display: flex;
+	background-color: #DCDCDC;
+	padding-top: 10px;
+}
+.caret{
+	width: 33.3%;
+	height: 200px;
+	text-align: center;
+	padding: auto;
+	font-size: 21px;
+}
+.second-foto {
+	width: 480px;
+	height: 500px;
+}
+.src{
+	display: flex;
+}
+.block-foto {
+	margin-top: 90px;
+	margin-left: 100px;
+}
+.foto-text {
+	margin-top: 100px;
+	font-size: 23px;
+	color: blue;
+	height: 200px;
+}
+.get {
+	color: orange;
+	margin-top: 70px;
+}
+.cont {
+	width: 100%;
+	height:550px; 
+	background-color: #22356F;
+	display: flex;
+}
+.US {
+	color: white;
+	margin-left: 200px;
+	padding-top: 150px;
+}
+.Ready {
+	margin-left: 200px;
+	padding-top: 80px;
+	color: white;
+	font-size: 33px;
+}
+.take_the-free {
+	margin-top: 20px;
+	margin-left: 200px;
+	color: white;
+	font-size: 22px;
+}
+.get_help {
+	color: orange;
+	margin-left: 200px;
+	padding-top: 30px;
+}
+.football{
+	margin-left: 400px;
+}
+.footer-section{
+	display: flex;
+}
+.child {
+	width: 480px;
+}
+.colips {
+	margin: auto;
+	width: 170px;
+	color: #22356F;
+	font-size: 17px;
+}
+.footer{
+	width: 92%;
+	height: 59px;
+	background-color: #62D0DF;
+	color: white;
+	padding-top: 35px;
+	padding-left: 100px;
+}

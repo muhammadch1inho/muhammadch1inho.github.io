@@ -1,0 +1,37 @@
+.header {
+    background: url(../assets/content/slide@1x.jpg) no-repeat;
+    background-size: cover;
+}
+.navigate {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.nav_link {
+    margin-right: 25px;
+}
+
+.nav_link a {
+    color: black;
+    text-decoration: none;
+}
+.logo {
+    font-weight: 900;
+    font-size: 20pt;
+}
+.logo::after {
+    content: ".";
+    line-height: 0;
+    font-size: 30px;
+    color: orange;
+    font-weight: 900;
+}
+.header_ui_component:hover {
+    background-color: orange;
+    color: aliceblue;
+}
+.fa-play {
+    font-weight: 300;
+    color: white;
+}

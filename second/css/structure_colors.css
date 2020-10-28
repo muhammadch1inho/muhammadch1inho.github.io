@@ -1,0 +1,19 @@
+.blue {
+    line-height: 0;
+    font-size: 40px;
+    color: blue;
+}
+
+.red {
+    line-height: 0;
+    font-size: 40px;
+    color: red;
+    border-right: 1.5px dotted;
+    border-left: 1.5px dotted;
+}
+
+.orange {
+    line-height: 0;
+    font-size: 40px;
+    color: orange;
+}

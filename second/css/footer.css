@@ -1,0 +1,33 @@
+.author_name {
+    color: black;
+    font-weight: 500;
+}
+.footer {
+    background-color: blue;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: white;
+}
+.use_link a {
+    text-decoration: none;
+    color: white;
+}
+.use_link a:hover {
+    color: orange;
+}
+.footer_navigate {
+    display: flex;
+}
+.footer_header {
+    font-weight: 500;
+}
+.copy {
+    text-align: center;
+    height: 10px;
+    padding-top: 20px;
+}
+.line {
+    background-color: gray;
+    height: 1px;
+    width: 100%;
+}
